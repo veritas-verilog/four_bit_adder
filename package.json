@@ -1,0 +1,17 @@
+{
+  "name": "four_bit_adder",
+  "version": "1.0.0",
+  "description": "A simple full-adder module",
+  "dependencies": [
+      {
+          "name": "veritas-verilog/full_adder"
+      }
+  ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veritas-verilog/ffour_bit_adder"
+  },
+  "author": "Tanishq Dubey",
+  "license": "MIT"
+}
