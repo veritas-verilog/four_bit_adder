@@ -1,13 +1,13 @@
 [package]
 name = "four_bit_adder"
 version = "1.0.0"
-decription = "A simple full-adder module"
+description = "A simple full-adder module"
 license = "MIT"
 author = "Tanishq Dubey"
 
 [repository]
 type = "git"
-url = "https://github.com/veritas-verilog/four_bit_adder"
+url = "https://github.com/narendasan/four_bit_adder"
 
 [dependencies]
-veritas-verilog/full_adder = "1.0.0"
+"narendasan/full_adder" = "1.0.0"
