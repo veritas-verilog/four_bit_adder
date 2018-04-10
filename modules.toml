@@ -1,13 +1,12 @@
 [package]
-name = "four_bit_adder"
-version = "1.0.0"
-description = "A simple full-adder module"
-license = "MIT"
-author = "Tanishq Dubey"
+name = 'four_bit_adder'
+version = '0.1.0'
+description = 'A four bit adder'
+author = 'Naren Dasan'
+license = 'NCSA'
 
 [repository]
-type = "git"
-url = "https://github.com/narendasan/four_bit_adder"
+url = 'https://github.com/narendasan/four_bit_adder'
+version_control = 'git'
 
 [dependencies]
-"narendasan/full_adder" = "1.0.0"
