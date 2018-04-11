@@ -1,4 +1,4 @@
-`include "veri_modules/full_adder/full_adder.v"
+`include "veritas_modules/full_adder/full_adder.v"
 
 module four_bit_adder (
     input [3:0] a,

@@ -1,0 +1,13 @@
+[package]
+name = 'four_bit_adder'
+version = '0.1.0'
+description = 'A four bit adder'
+author = 'Naren Dasan'
+license = 'NCSA'
+
+[repository]
+url = 'https://github.com/narendasan/four_bit_adder'
+version_control = 'git'
+
+[dependencies]
+"narendasan/full_adder" = "0.1.0"
