@@ -6,8 +6,8 @@ author = 'Naren Dasan'
 license = 'NCSA'
 
 [repository]
-url = 'https://github.com/narendasan/four_bit_adder'
+url = 'https://github.com/veritas-verilog/four_bit_adder'
 version_control = 'git'
 
 [dependencies]
-"narendasan/full_adder" = "0.1.0"
+"veritas-verilog/full_adder" = "0.1.0"
